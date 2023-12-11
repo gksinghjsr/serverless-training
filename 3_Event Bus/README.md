@@ -31,7 +31,7 @@ EventBusName:
 
 `npx sls deploy`
 
-This will provision an EventBridge bus called `order_events_dev_` followed by your name.
+This will provision an EventBridge bus called `events_tracker_dev_` followed by your name.
 
 </p></details>
 
