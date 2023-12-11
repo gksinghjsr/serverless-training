@@ -10,8 +10,8 @@
 1. Create a directory for your serverless project.
 
     ```
-    mkdir production-ready-serverless-workshop
-    cd production-ready-serverless-workshop
+    mkdir serverless-workshop
+    cd serverless-workshop
     ```
 
 2. Initialise the project:
@@ -194,9 +194,6 @@ functions:
   get-index: workshop-gysingh-dev-get-index (43 kB)
 ```
 
-Load the endpoint in the browser and see something like the following:
-
-![](/images/mod03-001.png)
 
 </p></details>
 
@@ -778,8 +775,6 @@ Luckily, we can use both side by side, and in this example, we can see that we'r
 
 `npx sls deploy`
 
-Reload the `index.html` and you should see something like the following
-
-![](/images/mod03-004.png)
+Reload the `index.html`
 
 </p></details>
